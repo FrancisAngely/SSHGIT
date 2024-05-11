@@ -123,6 +123,7 @@ Las claves SSH son una forma segura de autenticarse en GitHub y acceder a tus re
 
 >Las claves SSH son una forma segura y cómoda de autenticarse en GitHub. Siguiendo los pasos de este manual, puedes crear, usar e implementar claves SSH para mejorar tu experiencia con GitHub.
  
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![img](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png#center)
+
 
 ![Getting Started](img_footer.png)
